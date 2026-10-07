@@ -325,11 +325,11 @@ All solutions are implemented in **Java**, with a focus on:
 <summary> 📌 1D Dynamic Programming
 </summary>
 
-- 70. Climbing Stairs — Easy
-- 198. House Robber — Medium
-- 139. Word Break — Medium
-- 322. Coin Change — Medium
-- 300. Longest Increasing Subsequence — Medium
+70. Climbing Stairs — Easy
+198. House Robber — Medium
+139. Word Break — Medium
+322. Coin Change — Medium
+300. Longest Increasing Subsequence — Medium
   
 </details>
 
