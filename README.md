@@ -65,7 +65,7 @@ All solutions are implemented in **Java**, with a focus on:
 - [Kadane's Algorithm](https://github.com/GxAniket/Top-interview-Question/tree/main/Kadane's%20Algorithm)
 - [Binary Search](#binary-search)
 - [Graph](#graph-general)
-- [Dynamic Programming](#1d-dp)
+- [Dynamic Programming](https://github.com/GxAniket/top-interview-questions-150-plus/tree/main/1D%20DP)
 - [Backtracking](#backtracking)
 - [Heap](#heap)
 - [Bit Manipulation](#bit-manipulation)
